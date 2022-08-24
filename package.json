@@ -1,7 +1,7 @@
 {
-  "name": "@finn/types",
+  "name": "@finnn/type",
   "version": "0.0.1",
-  "description": "value types",
+  "description": "Check out object real type",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

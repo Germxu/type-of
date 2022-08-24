@@ -1,3 +1,5 @@
-export function typeOf (obj) {
+function typeOf (obj) {
   return Object.prototype.toString.call(obj).replace(/^\[object\s(.*)\]$/, '$1').toLowerCase()
 }
+
+module.exports = typeOf
