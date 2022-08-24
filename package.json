@@ -1,6 +1,6 @@
 {
   "name": "@finnn/type",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check out object real type",
   "main": "index.js",
   "scripts": {
